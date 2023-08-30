@@ -1,5 +1,4 @@
 # SingleTonDesignPattern
-Creating own SingleTonDesignPattern ,breaking it and also creating way to not to break. 
-*)How to create SingleTonClass? 
-*)How to Break SingleTonClass? 
-*)How to Prevent SingleTonClass?
+1)How to create own SingleTonClass? 
+2)How to Break own SingleTonClass? 
+3)How to Prevent own SingleTonClass?
